@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/chat-firebase/precache-manifest.19ddef7c9d1dc6cfcaa05a06a45274b3.js"
+  "/chat-firebase/precache-manifest.9c1baf46eafab153f7867f3a437996ec.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "chat-fb"});
