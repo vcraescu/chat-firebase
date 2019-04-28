@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/chat-firebase/js/chunk-vendors.22e56186.js"
   },
   {
-    "revision": "07010a618f961888ee62",
-    "url": "/chat-firebase/js/app.bc20226d.js"
+    "revision": "ad760167e6116754fdde",
+    "url": "/chat-firebase/js/app.a63f8baf.js"
   },
   {
-    "revision": "6359b31ce3ac37e2c108bb3f3e2fdb14",
+    "revision": "7b353b4fe25108c83eaed2954eb5dbac",
     "url": "/chat-firebase/index.html"
   },
   {
-    "revision": "07010a618f961888ee62",
+    "revision": "ad760167e6116754fdde",
     "url": "/chat-firebase/css/app.8596aeb0.css"
   }
 ];
